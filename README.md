@@ -19,4 +19,15 @@
 
 <br>
 <h1 align="center">💼 Soft Skills </h1>
+
 - 💬 French (Native), English(B2), Spanish(B2), Arabic(C1)
+
+- Communication
+  
+- Teamwork
+  
+- Adaptability
+  
+- Problem-Solving
+  
+- Time Management
