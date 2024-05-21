@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ilyas Boukhari</h1>
+<h1 align="center">Hi 👋, I'm Ilyas Boukhari </h1>
 <h3 align="center">A passionate developer from France</h3>
 
 - 🌍 I'm based in Limoges, France.
 
-- 🔭 I’m currently working on **Scrabble project**
+- 🧑🏾‍🎓 I'm currently a student pursuing a Bachelor's in Computer Science.
+
+- 
 
 - 🌱 I’m currently learning **Computer Science (Java, Sql, ...)**
 
