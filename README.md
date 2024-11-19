@@ -15,7 +15,7 @@
 </p>
 <br>
 ## 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=php,js,py,html,css,typescript,nodejs,git,figma,github,bash,c,c++,linux,py,vscode,java,mysql,postgres&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=php,js,py,html,css,typescript,nodejs,git,figma,github,bash,c,linux,py,vscode,java,mysql,postgres&theme=dark)
 <br>
 <h1 align="center">💼 Soft Skills </h1>
 
