@@ -37,3 +37,8 @@
 - Problem-Solving
   
 - Time Management
+
+
+
+## 💻 Tech Stack:
+![My Skills](https://skillicons.dev/icons?i=php,symfony,js,react,py,html,css,yarn,nodejs,git,md,figma,github,bash,c,linux,py,vscode,npm,java,mysql,postgres&theme=dark)
